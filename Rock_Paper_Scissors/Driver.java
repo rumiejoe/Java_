@@ -28,7 +28,7 @@ public class Driver
       A.display();;
      
       
-      /*ComputerRPSPlayer a,c;
+      ComputerRPSPlayer a,c;
       HumanRPSPlayer b;
 		a= new ComputerRPSPlayer("George");
 		c= new ComputerRPSPlayer("Mary");
@@ -53,7 +53,7 @@ public class Driver
       else if(b.getWins()>a.getWins())
          System.out.println(b+ " is the winner");
          
-      */
+      
 	}
 }
 
