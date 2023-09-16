@@ -12,7 +12,7 @@ public class Driver
 	{
 		MyStack s= new MyStack();
       
-      System.out.print(s.checkParens("(hi there (how)(are)(you (doing (today))) now)"));
+      		System.out.print(s.checkParens("(hi there (how)(are)(you (doing (today))) now)"));
 	}
 }
 
