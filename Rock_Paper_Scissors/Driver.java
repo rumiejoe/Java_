@@ -52,7 +52,6 @@ public class Driver
 		         System.out.println(a+"is the winner");
 		      else if(b.getWins()>a.getWins())
 		         System.out.println(b+ " is the winner");
-         
       
 	}
 }
