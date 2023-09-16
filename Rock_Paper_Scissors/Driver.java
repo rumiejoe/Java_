@@ -35,10 +35,10 @@ public class Driver
 				
 		      
 		      System.out.println("0 is the code for "+ComputerRPSPlayer.translate(0));
-				System.out.println("1 is the code for "+ComputerRPSPlayer.translate(1));
-				System.out.println("2 is the code for "+ComputerRPSPlayer.translate(2));
-				System.out.println("3 is the code for "+ComputerRPSPlayer.translate(3));
-				System.out.println("---------------------------------");
+		      System.out.println("1 is the code for "+ComputerRPSPlayer.translate(1));
+		      System.out.println("2 is the code for "+ComputerRPSPlayer.translate(2));
+		      System.out.println("3 is the code for "+ComputerRPSPlayer.translate(3));
+		      System.out.println("---------------------------------");
 		      
 		      
 		      do
